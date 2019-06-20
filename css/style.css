@@ -24,7 +24,6 @@ h3 {
 /*********** HEADER ************/
 
 .main-header {
-    /* background-image: url("../assets/bg_header.jpg"); */
     background: linear-gradient( #000000a9, transparent), url("../assets/bg_header.jpg") no-repeat center;
     background-size: cover; 
     background-position: center;
